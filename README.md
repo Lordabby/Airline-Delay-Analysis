@@ -11,19 +11,19 @@ Problem Objectives:
 # Data Sourcing;
 The data used for this project was obtained on Github, check the link below; 
 https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv
-----
+
 # Data Preparation
 The dataset was converted into. XLSX format was stored in a secure worksheet.
-----
+
 # Data Preparation
 i. Data formatting
 ii. Data Trimming
 iii. Fixing data type and typecasting.
 iv. Removing incomplete data which include four rows.
-----
+
 # Data Visualization
 The dataset was visualised using Power Bi software.
-----
+
 # Reports;
 i.A total flight record of 539,380 was made available of which 299,120 was a good experience and 240,260 was a Bad experience, constituting 44.54% of the total flight.
 
